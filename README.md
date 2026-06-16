@@ -41,7 +41,7 @@ Urdu Handwriting Assistant is a complete learning system designed to help childr
 ## 📸 **Screenshots**
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="400" alt="Dashboard"/>
+  <img src="screenshots/dashboard.png" width="50" Hieght="60" alt="Dashboard"/>
   <img src="screenshots/tracing.png" width="400" alt="Tracing Canvas"/>
 </p>
 <p align="center">
