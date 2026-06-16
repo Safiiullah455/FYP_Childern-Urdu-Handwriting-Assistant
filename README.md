@@ -42,11 +42,11 @@ Urdu Handwriting Assistant is a complete learning system designed to help childr
 
 <p align="center">
   <img src="screenshots/dashboard.png" width="50" Hieght="60" alt="Dashboard"/>
-  <img src="screenshots/tracing.png" width="400" alt="Tracing Canvas"/>
+  <img src="screenshots/Tracing.png" width="50" Hieght="60" alt="Tracing Canvas"/>
 </p>
 <p align="center">
-  <img src="screenshots/progress.png" width="400" alt="Progress Page"/>
-  <img src="screenshots/mistakes.png" width="400" alt="Mistakes Page"/>
+  <img src="screenshots/progress.png" width="50"Hieght="60" alt="Progress Page"/>
+  <img src="screenshots/mistakes.png" width="50" Hieght="60" alt="Mistakes Page"/>
 </p>
 
 > *Screenshots are located in the `/screenshots` folder.*
